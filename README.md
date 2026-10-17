@@ -66,3 +66,5 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 ---
 [Django Boilerplate](https://www.youtube.com/watch?v=bGGDGltRT_g) - provided by **AppSeed**
+
+Environment setup: [English](ENVIRONMENT.md) | [Русский](ENVIRONMENT.ru.md)
